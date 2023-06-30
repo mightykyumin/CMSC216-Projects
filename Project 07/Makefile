@@ -1,12 +1,4 @@
-# Name : Kyumin Hwang
-# University Directory ID: khwang77
-#  Nine-digits ID : 119134092
-#  Section number : 0205
-#  I pledge on my honor that I have not given or received any unauthorized
-#  assistance on this assignment*/
 
-# These are the makefile of this programs that links the file into
-# executable file
 CC = gcc
 CFLAGS = -ansi -pedantic-errors -Wall -fstack-protector-all -Werror
 

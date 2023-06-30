@@ -1,9 +1,4 @@
-/*Name : Kyumin Hwang
-  University Directory ID: khwang77
-  Nine-digits ID : 119134092
-  Section number : 0205
-  I pledge on my honor that I have not given or received any unauthorized
-  assistance on this assignment*/
+
 
 /* This program will implement graph. This graph will be directed and weighted
    graph. This program will use linked list and adjacency list to create graph

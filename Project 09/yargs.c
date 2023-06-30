@@ -1,9 +1,3 @@
-/*Name : Kyumin Hwang
-  University Directory ID: khwang77
-  Nine-digits ID : 119134092
-  Section number : 0205
-  I pledge on my honor that I have not given or received any unauthorized
-  assistance on this assignment*/
 
 #include "safe-fork.h"
 #include "split.h"

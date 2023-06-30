@@ -1,9 +1,4 @@
-/*Name : Kyumin Hwang
-  University Directory ID: khwang77
-  Nine-digits ID : 119134092
-  Section number : 0205
-  I pledge on my honor that I have not given or received any unauthorized
-  assistance on this assignment*/
+
 
 /* This header file will contain the data structure of the graph, that will
    be used to save the graph components. It contains vertex structure and edge

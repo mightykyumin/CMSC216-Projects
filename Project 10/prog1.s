@@ -1,9 +1,4 @@
-# Name : Kyumin Hwang
-# University Directory ID: khwang77
-# Nine-digits ID : 119134092
-# Section number : 0205
-# I pledge on my honor that I have not given or received any unauthorized
-# assistance on this assignment
+
 
 # This program will read four input and find the area of the rectangle.
 # After that it will compare two rectangle area and if it is same return 0

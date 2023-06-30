@@ -1,18 +1,3 @@
-/*Name : Kyumin Hwang
-University Directory ID: khwang77
-Nine-digits ID : 119134092
-Section number : 0205
-I pledge on my honor that I have not given or received any unauthorized
-  assistance on this assignment*/
-
-/* This program will check for lines in its input that are more than 
-80 characters.It reads one input line and save a line into the array and
- checks the length of the line. If the line is more than 80 characters,
- It should print * in the beginning of the output.If not,
- just blank space should be printed */
-
-/* Also for the line with more than 80 characters, this program will 
-create a new line and indicates parts that are longer than 80 using ^ */
 
 #include <stdio.h>
 
